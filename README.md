@@ -1,5 +1,7 @@
 ## Welcome to my github profile
 ### My favourite projects:
+#### Miscellaneous
+- 🎄 [Advent of Code solutions](https://github.com/BbqGamer/aoc)
 #### Data visualization (with live demos)
 - 🧱 [Lego analysis using rebrickable dataset coded using Rmarkdown *(with live demo)*](https://github.com/BbqGamer/lego_analysis)
 - 📈 [Stock market analysis written in shiny apps using R *(with live demo)*](https://github.com/BbqGamer/stock-market-visualization)
@@ -12,5 +14,3 @@
 - [BMP (bitmap) file parser and processor in C](https://github.com/BbqGamer/BMP-parser)
 - [INI file parser in C](https://github.com/BbqGamer/ini-parser)
 - [Wav file parser in C++](https://github.com/BbqGamer/sound_waves)
-#### Miscellaneous
-- 🎄 [Advent of Code solutions (2019-2022)](https://github.com/BbqGamer/advent_of_code)
