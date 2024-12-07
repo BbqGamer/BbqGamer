@@ -3,6 +3,7 @@
 #### Final project for engineering degree
 - 📞 [Callminer - phonecall transcript analysis framework](https://github.com/PutCallMiner/CallMiner)
 #### Miscellaneous
+- 🗣️ [my blog - korba.online](https://github.com/BbqGamer/blog)
 - 🎄 [Advent of Code solutions](https://github.com/BbqGamer/aoc)
 #### Data visualization (with live demos)
 - 🧱 [Lego analysis using rebrickable dataset coded using Rmarkdown *(with live demo)*](https://github.com/BbqGamer/lego_analysis)
