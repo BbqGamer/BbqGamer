@@ -1,7 +1,7 @@
 ## Welcome to my github profile
 ### My favourite projects:
 #### Final project for engineering degree
-- 📞 [Callminer - phonecall transcript analysis framework](https://github.com/PutCallMiner/CallMiner)
+- 📞 [Callminer - phone call transcript analysis framework](https://github.com/PutCallMiner/CallMiner)
 #### Miscellaneous
 - 🗣️ [my blog - korba.online](https://github.com/BbqGamer/blog)
 - 🎄 [Advent of Code solutions](https://github.com/BbqGamer/aoc)
